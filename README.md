@@ -36,5 +36,3 @@ This project predicts customer churn for a telecom company using Machine Learnin
 ## Goal
 
 The final objective is to select the machine learning model and classification threshold that best predicts customer churn while minimizing false positives and false negatives according to business needs.
-
-⭐ Feel free to explore the notebook and share your feedback!
